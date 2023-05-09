@@ -2,8 +2,6 @@
 
 ![Sierpinski Triangle](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/1024px-Sierpinski_triangle.svg.png)
 
-A Python script to create and plot a Sierpinski triangle consisting of as much points as you wish, or your memory can handle.
-
 ## What is a Sierpinski triangle?
 
 A [Sierpinski triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) is a [fractal](https://en.wikipedia.org/wiki/Fractal_curve) consisting of equilateral triangles.
